@@ -1,14 +1,4 @@
 # second-git
-第二個git練習
-sdfasdfsdaf
-sdfsdafsadfsadf
-sdfasff
-sdfasdfsdaf
-sdfsdafsadfsadf
-sdfasff
-sdfasdfsdaf
-sdfsdafsadfsadf
-sdfasff
-sdfasdfsdaf
-sdfsdafsadfsadf
-sdfasff
+
+### 歡迎參觀我的網頁
+* [新手網頁](https://mackliu.github.io/second-git/)
